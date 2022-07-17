@@ -1,6 +1,6 @@
 require_relative "lib/private_strategy"
 
-cask "wip-ui" do
+cask "wip" do
 
   desc "Wip"
   homepage "https://wip.tech"
@@ -11,7 +11,7 @@ cask "wip-ui" do
   head "https://github.com/wip-tech/wip.git"
   version "0.0.29"
 
-  app "wip-ui.app"
+  app "wip.app"
   binary "wip"
 
 end
