@@ -13,6 +13,6 @@ class Wip < Formula
 
   # Homebrew requires tests.
   test do
-    shell_output("#{bin}/wip --check-install", 0).starts_with("ok: wip v0.0.29")
+    assert_match "ok: wip v0.0.29 [GT-266-default#cd1f84a2-modified] (built: 2022-07-17T13:38:13.897859+00:00)", shell_output("#{bin}/wip check-version", 0)
   end
 end
