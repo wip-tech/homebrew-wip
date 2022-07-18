@@ -1,1 +1,1 @@
-# Wip closed-alpha Homebrew tap
+# Wip Homebrew Tap
