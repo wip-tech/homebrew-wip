@@ -2,7 +2,7 @@
 cask "wip" do
   desc "Wip makes software development simpler, more enjoyable, and more productive"
   homepage "https://wip.tech"
-  url "https://github.com/wip-tech/wip/releases/download/_tag_/_archive_name_"
+  url "https://github.com/wip-tech/wip-dist/releases/download/_tag_/_archive_name_"
   sha256 "_sha_"
   version "_version_"
 
