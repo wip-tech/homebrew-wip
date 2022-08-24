@@ -2,9 +2,9 @@
 cask "wip-rc" do
   desc "Wip makes software development simpler, more enjoyable, and more productive"
   homepage "https://wip.tech"
-  url "https://github.com/wip-tech/wip-dist/releases/download/v0.0.45/wip-v0.0.45-x86_64-apple-darwin.tar.gz"
-  sha256 "9177799af71ee5ff508794e8810a1d276eebcebecf1f0f9f3bfaaf71db3b66a3"
-  version "0.0.45"
+  url "https://github.com/wip-tech/wip-dist/releases/download/v0.0.46/wip-v0.0.46-x86_64-apple-darwin.tar.gz"
+  sha256 "8c4976e99738c3e0fbb844c5a7e7b8edabaa91897baee7d272fb13703e8f2de1"
+  version "0.0.46"
 
   app "wip.app"
   binary "wip"
