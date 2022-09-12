@@ -6,7 +6,7 @@ cask "wip-rc" do
   sha256 "_sha_"
   version "_version_"
 
-  app "wip.app"
-  binary "wip"
+  app "HighFlux.app"
+  binary "hf"
 
 end
