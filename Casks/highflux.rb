@@ -9,4 +9,5 @@ cask "highflux" do
 
   app "highflux.app"
   binary "#{appdir}/highflux.app/Contents/MacOS/hf"
+  binary "#{appdir}/highflux.app/Contents/MacOS/highflux"
 end
