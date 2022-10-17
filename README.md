@@ -1,1 +1,1 @@
-# Wip Homebrew Tap
+# HighFlux Homebrew Tap
