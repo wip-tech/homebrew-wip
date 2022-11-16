@@ -1,9 +1,9 @@
 # see: https://docs.brew.sh/Cask-Cookbook
 cask "highflux" do
-  version "0.2.4"
-  sha256 "478002660f548dccd442aa97eee3de6465737a1ace3808d7380e99fe50e36f37"
+  version "0.3.0"
+  sha256 "b98ef4f44ca38e42471d84ee3c4cb23e929a119c2a3dba580eb9b114482e6c6d"
 
-  url "https://www.highflux.io/download/highflux_0.2.4_apple_x64.dmg", referer: 'Homebrew'
+  url "https://www.highflux.io/download/highflux_0.3.0_apple_x64.dmg", referer: 'Homebrew'
   name "HighFlux"
   desc "HighFlux makes software development simpler, more enjoyable, and more productive"
   homepage "https://www.highflux.io"
